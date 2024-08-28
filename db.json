@@ -3,61 +3,61 @@
     {
         "id": "USA",
         "name": "United States of America",
-        "description": "A federal republic consisting of 50 states, known for its global influence in politics, economics, and culture. Major industries include technology, finance, and entertainment. It is home to world-renowned institutions like Harvard University and Silicon Valley."
+        "description": "A federal republic consisting of 50 states, known for its global influence in politics, economics, and culture. Major industries include technology, finance, and entertainment. It is home to world-renowned institutions like Harvard University and Silicon Valley.",
          "hostcountry":"1904,1932,1984,1996,2028"
     },
     {
         "id": "CHN",
         "name": "China",
-        "description": "A one-party state ruled by the Communist Party, China has the world's second-largest economy. It is known for its manufacturing prowess and has significant influence in global trade. The country is also home to ancient cultural sites like the Great Wall and the Forbidden City."
+        "description": "A one-party state ruled by the Communist Party, China has the world's second-largest economy. It is known for its manufacturing prowess and has significant influence in global trade. The country is also home to ancient cultural sites like the Great Wall and the Forbidden City.",
         "hostcountry":"2008"
     },
     {
         "id": "JPN",
         "name": "Japan",
-        "description": "Japan is an island nation in East Asia known for its blend of traditional and modern culture. It is a global leader in technology, particularly in robotics and electronics. Japan is also famous for its cuisine, such as sushi and ramen, and its unique cultural practices, like tea ceremonies and sumo wrestling."
+        "description": "Japan is an island nation in East Asia known for its blend of traditional and modern culture. It is a global leader in technology, particularly in robotics and electronics. Japan is also famous for its cuisine, such as sushi and ramen, and its unique cultural practices, like tea ceremonies and sumo wrestling.",
         "hostcountry":"1940,1964,2020"
     },
     {
         "id": "AUS",
         "name": "Australia",
-        "description": "Known for its diverse ecosystems, from the Great Barrier Reef to the Outback, Australia is also a major exporter of minerals and agricultural products. The country has a strong economy, with key sectors including mining, finance, and tourism."
+        "description": "Known for its diverse ecosystems, from the Great Barrier Reef to the Outback, Australia is also a major exporter of minerals and agricultural products. The country has a strong economy, with key sectors including mining, finance, and tourism.",
         "hostcountry":"1956,2000,2032"
     },
     {
         "id": "FRA",
         "name": "France",
-        "description": "France is a key player in the European Union and a permanent member of the United Nations Security Council. It is known for its luxury goods, fashion industry, and as the world’s most visited country due to its landmarks like the Eiffel Tower and the Louvre Museum."
+        "description": "France is a key player in the European Union and a permanent member of the United Nations Security Council. It is known for its luxury goods, fashion industry, and as the world’s most visited country due to its landmarks like the Eiffel Tower and the Louvre Museum.",
         "hostcountry": "1900,1924,2024"
     },
     {
         "id": "NED",
         "name": "Netherlands",
-        "description": "The Netherlands is a highly developed country known for its liberal policies, innovative water management, and as a major hub for international trade. The Dutch economy is driven by high-tech industries, agriculture, and services."
+        "description": "The Netherlands is a highly developed country known for its liberal policies, innovative water management, and as a major hub for international trade. The Dutch economy is driven by high-tech industries, agriculture, and services.",
          "hostcountry":"1928"
     },
     {
         "id": "GBR",
         "name": "United Kingdom",
-        "description": "The UK has a constitutional monarchy and a parliamentary democracy. It played a significant role in world history as the center of the British Empire. The UK is a global financial center, with London being one of the leading cities for finance and culture."
+        "description": "The UK has a constitutional monarchy and a parliamentary democracy. It played a significant role in world history as the center of the British Empire. The UK is a global financial center, with London being one of the leading cities for finance and culture.",
         "hostcountry":"1908,1944,1948,2012"
     },
     {
         "id": "KOR",
         "name": "South Korea",
-        "description": "South Korea is known for its rapid economic development, often referred to as the 'Miracle on the Han River.' It is a global leader in electronics, automotive, and entertainment industries, particularly known for the global popularity of K-pop and Korean dramas."
+        "description": "South Korea is known for its rapid economic development, often referred to as the 'Miracle on the Han River.' It is a global leader in electronics, automotive, and entertainment industries, particularly known for the global popularity of K-pop and Korean dramas.",
          "hostcountry":"1988"
     },
     {
         "id": "ITA",
         "name": "Italy",
-        "description": "Italy has a rich cultural heritage, being the birthplace of the Renaissance. It is renowned for its contributions to art, architecture, and cuisine. Italy’s economy is driven by tourism, fashion, and the automotive industry, with brands like Ferrari and Gucci."
+        "description": "Italy has a rich cultural heritage, being the birthplace of the Renaissance. It is renowned for its contributions to art, architecture, and cuisine. Italy’s economy is driven by tourism, fashion, and the automotive industry, with brands like Ferrari and Gucci.",
         "hostcountry":"1960"
     },
     {
         "id": "GER",
         "name": "Germany",
-        "description": "Germany is the largest economy in Europe and a leader in engineering, automotive, and chemical industries. It is known for its high-quality manufacturing and as the birthplace of significant cultural and intellectual movements, including the Reformation and classical music."
+        "description": "Germany is the largest economy in Europe and a leader in engineering, automotive, and chemical industries. It is known for its high-quality manufacturing and as the birthplace of significant cultural and intellectual movements, including the Reformation and classical music.",
         "hostcountry":"1916,1936,1972"
     }
   ]
